@@ -1,0 +1,150 @@
+
+.container{
+    text-align: center;
+    align-items: center;
+    color: black;
+    background-color: teal;
+    
+    align-items:center;
+    
+}
+
+.col-sm-4{
+    height: 50px;
+    border: 5px solid black;
+    text-align: center;
+}
+
+.con-1{
+    color: black;
+    text-align: center;
+    
+   
+}
+
+tr{
+    border: 5px solid;
+}
+
+.img{
+    border-radius: 200px;
+}
+
+.con-2{
+    color: aliceblue;
+    padding-top: 90px;
+}
+
+.con-4{
+    background-color: aqua;
+}
+
+.con-7{
+    background-color: aquamarine;
+    font-size: 50px;
+}
+
+.container-1{
+    background-color: burlywood;
+}
+
+.container4{
+    background-color: darkorange;
+    
+}
+
+.container-fluid{
+    background-color: black;
+    width: 1170px;
+}
+.navbar-header{
+    background-color: black;
+}
+
+.cons{
+    background-color: red;
+}
+
+.conta-3{
+    background-color: blue;
+}
+
+.cont-9{
+    background-color: chartreuse;
+}
+
+.toolt{
+   background-color: aliceblue;
+}
+
+.popo{
+    background-color: darkgray;
+}
+
+div {
+    position: relative;
+  }
+  ul.nav-pills {
+    top: 20px;
+    position: fixed;
+  }
+  div.col-sm-9 div {
+    height: 250px;
+    font-size: 15px;
+  }
+  #section1 {color: #fff; background-color: #1E88E5;}
+  #section2 {color: #fff; background-color: #673ab7;}
+  #section3 {color: #fff; background-color: #ff9800;}
+  #section41 {color: #fff; background-color: #00bcd4;}
+  #section42 {color: #fff; background-color: #009688;}
+  
+  @media screen and (max-width: 810px) {
+    #section1, #section2, #section3, #section41, #section42  {
+      margin-left: 190px;
+    }
+  }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
